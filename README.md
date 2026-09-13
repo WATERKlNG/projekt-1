@@ -1,0 +1,1 @@
+to jest program do porównywania różnicy wybranych liter w dwóch tekstach
